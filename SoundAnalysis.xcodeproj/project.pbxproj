@@ -21,6 +21,8 @@
 		1F22690F1969DE77009D8F18 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F2268F11969DE77009D8F18 /* UIKit.framework */; };
 		1F2269171969DE77009D8F18 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1F2269151969DE77009D8F18 /* InfoPlist.strings */; };
 		1F2269191969DE77009D8F18 /* SoundAnalysisTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F2269181969DE77009D8F18 /* SoundAnalysisTests.m */; };
+		1F2269281969E257009D8F18 /* AudioController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1F2269241969E257009D8F18 /* AudioController.mm */; };
+		1F2269291969E257009D8F18 /* METScopeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F2269271969E257009D8F18 /* METScopeView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,10 @@
 		1F2269141969DE77009D8F18 /* SoundAnalysisTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SoundAnalysisTests-Info.plist"; sourceTree = "<group>"; };
 		1F2269161969DE77009D8F18 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1F2269181969DE77009D8F18 /* SoundAnalysisTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SoundAnalysisTests.m; sourceTree = "<group>"; };
+		1F2269231969E257009D8F18 /* AudioController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioController.h; sourceTree = "<group>"; };
+		1F2269241969E257009D8F18 /* AudioController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = AudioController.mm; sourceTree = "<group>"; };
+		1F2269261969E257009D8F18 /* METScopeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = METScopeView.h; sourceTree = "<group>"; };
+		1F2269271969E257009D8F18 /* METScopeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = METScopeView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +88,8 @@
 		1F2268E11969DE76009D8F18 = {
 			isa = PBXGroup;
 			children = (
+				1F2269221969E257009D8F18 /* Audio */,
+				1F2269251969E257009D8F18 /* Visual */,
 				1F2268F31969DE77009D8F18 /* SoundAnalysis */,
 				1F2269121969DE77009D8F18 /* SoundAnalysisTests */,
 				1F2268EC1969DE77009D8F18 /* Frameworks */,
@@ -150,6 +158,24 @@
 				1F2269151969DE77009D8F18 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1F2269221969E257009D8F18 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				1F2269231969E257009D8F18 /* AudioController.h */,
+				1F2269241969E257009D8F18 /* AudioController.mm */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		1F2269251969E257009D8F18 /* Visual */ = {
+			isa = PBXGroup;
+			children = (
+				1F2269261969E257009D8F18 /* METScopeView.h */,
+				1F2269271969E257009D8F18 /* METScopeView.m */,
+			);
+			path = Visual;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,6 +275,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F2269291969E257009D8F18 /* METScopeView.m in Sources */,
+				1F2269281969E257009D8F18 /* AudioController.mm in Sources */,
 				1F2269041969DE77009D8F18 /* ViewController.m in Sources */,
 				1F2268FE1969DE77009D8F18 /* AppDelegate.m in Sources */,
 				1F2268FA1969DE77009D8F18 /* main.m in Sources */,

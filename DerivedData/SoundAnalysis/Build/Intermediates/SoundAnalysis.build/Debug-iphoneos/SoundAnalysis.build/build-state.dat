@@ -1,0 +1,858 @@
+TSoundAnalysis
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist
+cProcessPCH /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.o /Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.o /Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis normal armv7
+cCopyStringsFile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/en.lproj/InfoPlist.strings SoundAnalysis/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Images.xcassets
+cProcessInfoPlistFile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Info.plist /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Info.plist
+cGenerateDSYMFile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis
+cProcessProductPackaging /Users/Jeff/Library/MobileDevice/Provisioning\ Profiles/1F271939-A99A-4586-A8A9-3B99D7B21BD6.mobileprovision /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovision
+cTouch /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent
+cCodeSign /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534819490000000000000132
+t1397233993
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000531EA1190000000000000094
+t1394516249
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531EA1190000000000000096
+t1394516249
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531EA119000000000000036B
+t1394516249
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EA11A000000000000019E
+t1394516250
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000531EA11A0000000000011540
+t1394516250
+s70976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+c00000000534818ED0000000000617550
+t1397233901
+s6387024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+c00000000531EA11A000000000029B8F0
+t1394516250
+s2734320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+c00000000531EA11A000000000095C3C0
+t1394516250
+s9814976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+c00000000531EA11A00000000001570A0
+t1394516250
+s1405088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+c00000000531EA11A0000000000065CE0
+t1394516250
+s416992
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+c00000000531EA11A0000000000011540
+t1394516250
+s70976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000531EA11B0000000000CF7800
+t1394516251
+s13596672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531EA11B000000000063A500
+t1394516251
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000531EA11B00000000001A2540
+t1394516251
+s1713472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531EA11B000000000079C660
+t1394516251
+s7980640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534818ED00000000004D7BC0
+t1397233901
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531EA11B0000000000433410
+t1394516251
+s4404240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c00000000531EA11B000000000011EB10
+t1394516251
+s1174288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531EA11B0000000000306EF0
+t1394516251
+s3174128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531EA11B000000000006DCD0
+t1394516251
+s449744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531EA11C0000000000A90C10
+t1394516252
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531EA11E00000000000417E0
+t1394516254
+s268256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531EA11E0000000000649DB0
+t1394516254
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531EA11E0000000000186D60
+t1394516254
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531EA1230000000002759920
+t1394516259
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531EA1250000000000385D50
+t1394516261
+s3693904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+c00000000531EA12A000000000001E300
+t1394516266
+s123648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libc++.dylib
+c00000000531EA12A00000000001FDBD0
+t1394516266
+s2087888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+c00000000531EA12A000000000055EFE0
+t1394516266
+s5631968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+c00000000531EA12A000000000002A880
+t1394516266
+s174208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000531EA12A00000000000458C0
+t1394516266
+s284864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000531EA12A000000000003E3E0
+t1394516266
+s254944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+c00000000531EA12A000000000002B130
+t1394516266
+s176432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000531EA12A00000000000E1FD0
+t1394516266
+s925648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531EA12A00000000000A2A70
+t1394516266
+s666224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+c00000000531EA12A000000000001E8A0
+t1394516266
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+c00000000531EA12A000000000000BF00
+t1394516266
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+c00000000531EA12A0000000000034380
+t1394516266
+s213888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+c00000000531EA12A0000000000022F30
+t1394516266
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+c00000000531EA12A000000000001E2A0
+t1394516266
+s123552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000531EA12A0000000000052520
+t1394516266
+s337184
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000531EA12A0000000000015F20
+t1394516266
+s89888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531EA12B00000000001B90D0
+t1394516267
+s1806544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531EA12A000000000001F170
+t1394516266
+s127344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531EA12A000000000002FCF0
+t1394516266
+s195824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+c00000000531EA12A000000000008A150
+t1394516266
+s565584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531EA12A00000000000B60E0
+t1394516266
+s745696
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+c00000000531EA12A0000000000078720
+t1394516266
+s493344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531EA12A00000000000621F0
+t1394516266
+s401904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531EA12B00000000000BDAE0
+t1394516267
+s776928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000531EA12B0000000000039080
+t1394516267
+s233600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531EA12B000000000003CBC0
+t1394516267
+s248768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000531EA12B000000000002CFE0
+t1394516267
+s184288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531EA12B000000000001EB50
+t1394516267
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000531EA12B000000000001EED0
+t1394516267
+s126672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+c00000000531EA12B00000000000236B0
+t1394516267
+s145072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531EA12B00000000000AC500
+t1394516267
+s705792
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EA1580000000000000ADC
+t1394516312
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534818ED000000000000514C
+t1397233901
+s20812
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.h
+c0000000053BAE8BC0000000000000899
+t1404758204
+s2201
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm
+c0000000053BAFC930000000000005179
+t1404763283
+s20857
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.pch
+t1404679340
+s6266244
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.pch
+t1404679340
+s88464
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.o
+t1404679341
+s61760
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.o
+t1404763306
+s57696
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.o
+t1404763971
+s201152
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/SoundAnalysis.LinkFileList
+c0000000053B9B4AB0000000000000385
+t1404679339
+s901
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.o
+t1404764866
+s92672
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.o
+t1404679341
+s3808
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent
+t1404680870
+s424
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/assetcatalog_dependencies.txt
+t1404680868
+s323
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/assetcatalog_generated_info.plist
+t1404680868
+s181
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app
+t1404764986
+s374
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM
+t1404764986
+s102
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Base.lproj/Main.storyboardc
+t1404764986
+s170
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Info.plist
+t1404680870
+s1165
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/PkgInfo
+t1404680870
+s8
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist
+t1404679339
+s150
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis
+t1404764986
+s193824
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovision
+t1404680870
+s28908
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/en.lproj/InfoPlist.strings
+t1404680862
+s42
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.h
+c0000000053B9A6F7000000000000011E
+t1404675831
+s286
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m
+c0000000053B9A6F700000000000007E0
+t1404675831
+s2016
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Base.lproj/Main.storyboard
+c0000000053BB03340000000000001FAE
+t1404764980
+s8110
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Images.xcassets
+c0000000053B9A6F70000000000000088
+t1404675831
+s136
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Info.plist
+c0000000053B9A6F70000000000000509
+t1404675831
+s1289
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Prefix.pch
+c0000000053B9A6F70000000000000158
+t1404675831
+s344
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.h
+c0000000053BADFFD0000000000000581
+t1404755965
+s1409
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m
+c0000000053BB02C100000000000040DD
+t1404764865
+s16605
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/en.lproj/InfoPlist.strings
+c0000000053B9A6F7000000000000002D
+t1404675831
+s45
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m
+c0000000053B9A6F7000000000000015A
+t1404675831
+s346
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.h
+c0000000053B5A82D0000000000002738
+t1404413997
+s10040
+
+N/Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m
+c0000000053BAFF40000000000000D79A
+t1404763968
+s55194
+
+N/Users/Jeff/Library/MobileDevice/Provisioning Profiles/1F271939-A99A-4586-A8A9-3B99D7B21BD6.mobileprovision
+c00000000529E489E00000000000070EC
+t1386104990
+s28908
+
+CBuild AST from /Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm
+r0
+
+CBuild AST from /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m
+r0
+
+CBuild AST from /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m
+r0
+
+CBuild AST from /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m
+r0
+
+CBuild AST from /Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8e1ffac93a6bb941^b074fac93a6bb941^---0#1#1#--18"Check dependencies36"1262F800-EFF6-4D4A-ABC2-3961BABABF31-
+
+CCodeSign /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app
+s426457786.381279
+e426457786.957120
+r1
+xCodeSign
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app
+o/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CodeSign DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app82"CodeSign DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app6caf61ba3a6bb941^3606f5ba3a6bb941^-148"/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/0000000000000000^1165"CodeSign DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Jeff Gregorio (B5745LR2J5)" and provisioning profile "iOS Team Provisioning Profile: *" (1F271939-A99A-4586-A8A9-3B99D7B21BD6)    /usr/bin/codesign --force --sign 66A1BC3631F5F705AAE8FC326C53E875E6011B0E --resource-rules=/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist --entitlements /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app36"7C23EC9C-CE88-4AA2-8C9B-4314191ABB78-
+b47C10117-D758-4BF2-BEFF-380819920E87
+
+CCompileAssetCatalog /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Images.xcassets
+s426373662.591286
+e426373668.914682
+r1
+xCompileAssetCatalog
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Images.xcassets
+o2014-07-06 17:07:46.946 IBCocoaTouchImageCatalogTool[66918:303] CFPreferences: user home directory at file:///Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Assets.car
+o/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"CompileAssetCatalog DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app SoundAnalysis/Images.xcassets123"CompileAssetCatalog DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app SoundAnalysis/Images.xcassets6970971ef269b941^ac001f25f269b941^-575"2014-07-06 17:07:46.946 IBCocoaTouchImageCatalogTool[66918:303] CFPreferences: user home directory at file:///Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Assets.car/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Images.xcassets/0000000000000000^1226"CompileAssetCatalog DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app SoundAnalysis/Images.xcassets    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device ipad --compress-pngs --compile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Images.xcassets36"7613DCF3-6662-4BD6-97CA-81837BFD9FC3-
+b74F14D1E-2F86-4C92-9975-761064B034C8
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/arm64/AppDelegate.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/arm64/AudioController.o /Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm normal arm64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/arm64/METScopeView.o /Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/arm64/ViewController.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/arm64/main.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426372141.118164
+e426372141.259002
+r1
+xCompileC
+xDerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.o
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m241"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.o SoundAnalysis/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9e611e2dec69b941^6150422dec69b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m0000000000000000^4061"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.o SoundAnalysis/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-generated-files.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-own-target-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-all-target-headers.hmap -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-project-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources/armv7 -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources -F/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos -include /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.dia -c /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.o36"3B29BDC2-ABA7-471D-9CB3-A2B4196273F6-
+b38499631-0195-437A-A509-9DD3AEB6F0C9
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.o /Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s426456105.640612
+e426456106.396787
+r1
+xCompileC
+xDerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.o
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm244"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.o Audio/AudioController.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler761ba429346bb941^7d94652a346bb941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm0000000000000000^4219"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.o Audio/AudioController.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fobjc-arc -fmodules -fmodules-cache-path=/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-generated-files.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-own-target-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-all-target-headers.hmap -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-project-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources/armv7 -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources -F/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos -include /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.d --serialize-diagnostics /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.dia -c /Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.o36"650784A4-FD2E-4E07-8D5D-137D14539305-
+b50F1E2ED-0CA3-4F5B-9C6F-5D19EA5DA706
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.o /Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426456771.274598
+e426456771.468944
+r1
+xCompileC
+xDerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.o
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m236"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.o Visual/METScopeView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a6146c3366bb941^240f78c3366bb941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m0000000000000000^4053"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.o Visual/METScopeView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-generated-files.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-own-target-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-all-target-headers.hmap -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-project-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources/armv7 -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources -F/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos -include /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.d --serialize-diagnostics /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.dia -c /Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.o36"667C5502-CBD9-4816-BF40-B6FB2AA9ADE5-
+bEB809360-D0E6-493E-B518-E070FFC7025C
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426457666.776200
+e426457666.882275
+r1
+xCompileC
+xDerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.o
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.h
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.h
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m247"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.o SoundAnalysis/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler76dec6423a6bb941^09dde1423a6bb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m0000000000000000^4079"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.o SoundAnalysis/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-generated-files.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-own-target-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-all-target-headers.hmap -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-project-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources/armv7 -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources -F/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos -include /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.dia -c /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.o36"9C4CC2D7-E4E0-4C1C-891B-51CB1386159A-
+b1C9E905C-8B0E-486D-941D-9F6C8781E494
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426372141.118620
+e426372141.258526
+r1
+xCompileC
+xDerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.o
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m227"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.o SoundAnalysis/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler397c1e2dec69b941^f52e422dec69b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m0000000000000000^4019"CompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.o SoundAnalysis/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-generated-files.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-own-target-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-all-target-headers.hmap -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-project-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources/armv7 -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources -F/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos -include /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch -MMD -MT dependencies -MF /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.dia -c /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.o36"E5FD55B9-7711-4E65-8495-C0332BA71ED4-
+b38499631-0195-437A-A509-9DD3AEB6F0C9
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7s/AppDelegate.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7s/AudioController.o /Users/Jeff/Computering/Xcode/SoundAnalysis/Audio/AudioController.mm normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7s/METScopeView.o /Users/Jeff/Computering/Xcode/SoundAnalysis/Visual/METScopeView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7s/ViewController.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7s/main.o /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Base.lproj/Main.storyboard
+s426457782.485551
+e426457786.351011
+r1
+xCompileStoryboard
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Base.lproj/Main.storyboard
+o2014-07-07 16:29:44.614 Interface Builder Cocoa Touch Tool[72768:303] CFPreferences: user home directory at file:///Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2014-07-07 16:29:45.842 Interface Builder Cocoa Touch Tool[72772:303] CFPreferences: user home directory at file:///Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard SoundAnalysis/Base.lproj/Main.storyboard58"CompileStoryboard SoundAnalysis/Base.lproj/Main.storyboard105d7cb63a6bb941^c6dc59ba3a6bb941^-458"2014-07-07 16:29:44.614 Interface Builder Cocoa Touch Tool[72768:303] CFPreferences: user home directory at file:///Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2014-07-07 16:29:45.842 Interface Builder Cocoa Touch Tool[72772:303] CFPreferences: user home directory at file:///Users/Jeff/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Base.lproj/Main.storyboard0000000000000000^839"CompileStoryboard SoundAnalysis/Base.lproj/Main.storyboard    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Base.lproj/Main.storyboardc /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/Base.lproj/Main.storyboard36"AAFF3914-9DE3-4BD2-AFA9-C83004BA7CFA-
+b47C10117-D758-4BF2-BEFF-380819920E87
+
+CCopyStringsFile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/en.lproj/InfoPlist.strings SoundAnalysis/en.lproj/InfoPlist.strings
+s426373662.590823
+e426373662.614110
+r1
+xCopyStringsFile
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/en.lproj/InfoPlist.strings
+xSoundAnalysis/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy SoundAnalysis/en.lproj/InfoPlist.strings157"CopyStringsFile DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/en.lproj/InfoPlist.strings SoundAnalysis/en.lproj/InfoPlist.stringsa54f971ef269b941^26389d1ef269b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/en.lproj/InfoPlist.strings0000000000000000^658"CopyStringsFile DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/en.lproj/InfoPlist.strings SoundAnalysis/en.lproj/InfoPlist.strings    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/en.lproj -- SoundAnalysis/en.lproj/InfoPlist.strings36"40010E34-3863-4766-A27E-2C570E49214B-
+b74F14D1E-2F86-4C92-9975-761064B034C8
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist
+s426372139.623475
+e426372139.624558
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xDerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist226"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist04ae9f2bec69b941^b328a02bec69b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist003444bcdeffdf42^818"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app36"3AF1D716-D320-49A4-B6F4-1875874985F0-
+b38499631-0195-437A-A509-9DD3AEB6F0C9
+
+CCreateUniversalBinary /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis normal armv7\ armv7s\ arm64
+r0
+
+CGenerateDSYMFile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis
+s426457786.351807
+e426457786.375014
+r1
+xGenerateDSYMFile
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generate /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM183"GenerateDSYMFile DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis691c5aba3a6bb941^a30160ba3a6bb941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM/0000000000000000^781"GenerateDSYMFile DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app.dSYM36"EF6234E6-F435-4118-9BF8-705BF5361FC9-
+b47C10117-D758-4BF2-BEFF-380819920E87
+
+CLd /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/arm64/SoundAnalysis normal arm64
+r0
+
+CLd /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/SoundAnalysis normal armv7
+r0
+
+CLd /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7s/SoundAnalysis normal armv7s
+r0
+
+CLd /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis normal armv7
+s426457666.884547
+e426457666.920724
+r1
+xLd
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis
+xnormal
+xarmv7
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/SoundAnalysis.LinkFileList
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/METScopeView.o
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AudioController.o
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/ViewController.o
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/AppDelegate.o
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis103"Ld DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis normal armv71381e2423a6bb941^c860f5423a6bb941^---0#0#1#--1533"Ld DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis normal armv7    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos -F/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos -filelist /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/SoundAnalysis.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -stdlib=libc++ -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/Objects-normal/armv7/SoundAnalysis_dependency_info.dat -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/SoundAnalysis36"9523BCA6-6EA6-471F-85FD-E05C8402DCD0-
+b1C9E905C-8B0E-486D-941D-9F6C8781E494
+
+CProcessInfoPlistFile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Info.plist /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Info.plist
+s426373670.234609
+e426373670.236419
+r1
+xProcessInfoPlistFile
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Info.plist
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Process /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Info.plist144"ProcessInfoPlistFile DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Info.plist SoundAnalysis/SoundAnalysis-Info.plist9b1e3c26f269b941^b3993f26f269b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Info.plist0000000000000000^1180"ProcessInfoPlistFile DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Info.plist SoundAnalysis/SoundAnalysis-Info.plist    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Info.plist -genpkginfo /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/ResourceRules.plist -additionalcontentfile /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/assetcatalog_generated_info.plist -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/Info.plist36"498C607C-B079-4BFA-B786-188FB311506C-
+b74F14D1E-2F86-4C92-9975-761064B034C8
+
+CProcessPCH /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-cyysvqljjrnyfwcumwpggrggudjx/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-fkvwqfwuvdawpwbqsmroihkafhfv/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426372139.625147
+e426372141.116316
+r1
+xProcessPCH
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.pch
+xSoundAnalysis/SoundAnalysis-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile SoundAnalysis/SoundAnalysis-Prefix.pch262"ProcessPCH DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb81fa02bec69b941^10752f2dec69b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Prefix.pch0000000000000000^3927"ProcessPCH DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-generated-files.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-own-target-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-all-target-headers.hmap -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-project-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources/armv7 -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources -F/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.d -c /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Prefix.pch -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-gccppvufidrsxqcbceujnnzugqvi/SoundAnalysis-Prefix.pch.pch36"25ECCB58-459F-483F-9861-FBA9CBD18D39-
+b38499631-0195-437A-A509-9DD3AEB6F0C9
+
+CProcessPCH /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Index/PrecompiledHeaders/SoundAnalysis-Prefix-bjlwtraoccvxqzfgtylixsgeyvsr_ast/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Index/PrecompiledHeaders/SoundAnalysis-Prefix-dknqgckwotlnevagapeojlyhpuhq_ast/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Index/PrecompiledHeaders/SoundAnalysis-Prefix-hfjqypdhjlbfafgcfppkdgbfwsta_ast/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-aacgljlmgscilffjtrdkffuqpcnq/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal arm64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH++ /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-fbvvvnincchtlzhccrqyfcmuftpm/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH++ /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s426372139.625445
+e426372140.169168
+r1
+xProcessPCH++
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.pch
+xSoundAnalysis/SoundAnalysis-Prefix.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile SoundAnalysis/SoundAnalysis-Prefix.pch266"ProcessPCH++ DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler4831a02bec69b941^86902b2cec69b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Prefix.pch0000000000000000^4077"ProcessPCH++ DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fobjc-arc -fmodules -fmodules-cache-path=/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-generated-files.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-own-target-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-all-target-headers.hmap -iquote /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis-project-headers.hmap -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources/armv7 -I/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/DerivedSources -F/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.d -c /Users/Jeff/Computering/Xcode/SoundAnalysis/SoundAnalysis/SoundAnalysis-Prefix.pch -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/PrecompiledHeaders/SoundAnalysis-Prefix-feldpxizivzdhzgrojtjkbltkwim/SoundAnalysis-Prefix.pch.pch36"6FFA148C-CFB8-4FB0-B1EB-F51F649B426B-
+b38499631-0195-437A-A509-9DD3AEB6F0C9
+
+CProcessPCH++ /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Index/PrecompiledHeaders/SoundAnalysis-Prefix-csvfontpofqxieapqpxtcwlvbbpo_ast/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7s objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Index/PrecompiledHeaders/SoundAnalysis-Prefix-fhqutsburyobxdcgdytrefojzktq_ast/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Index/PrecompiledHeaders/SoundAnalysis-Prefix-gxcvjxcpvrkvzndptlmtyatyydgn_ast/SoundAnalysis-Prefix.pch.pch SoundAnalysis/SoundAnalysis-Prefix.pch normal arm64 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent
+s426373670.342657
+e426373670.343787
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection265"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent265"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent79c95726f269b941^7f695d26f269b941^---0#0#1#-19%DVTDocumentLocation2@171"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent003444bcdeffdf42^856"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Intermediates/SoundAnalysis.build/Debug-iphoneos/SoundAnalysis.build/SoundAnalysis.xcent36"DA8EEB3A-0F95-4455-B366-6214F88F9E8B-
+b74F14D1E-2F86-4C92-9975-761064B034C8
+
+CProcessProductPackaging /Users/Jeff/Library/MobileDevice/Provisioning\ Profiles/1F271939-A99A-4586-A8A9-3B99D7B21BD6.mobileprovision /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovision
+s426373670.325219
+e426373670.341909
+r1
+xProcessProductPackaging
+x/Users/Jeff/Library/MobileDevice/Provisioning Profiles/1F271939-A99A-4586-A8A9-3B99D7B21BD6.mobileprovision
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection231"ProcessProductPackaging /Users/Jeff/Library/MobileDevice/Provisioning\ Profiles/1F271939-A99A-4586-A8A9-3B99D7B21BD6.mobileprovision DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovision231"ProcessProductPackaging /Users/Jeff/Library/MobileDevice/Provisioning\ Profiles/1F271939-A99A-4586-A8A9-3B99D7B21BD6.mobileprovision DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovisionc2505326f269b941^2c655d26f269b941^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovision003444bcdeffdf42^762"ProcessProductPackaging /Users/Jeff/Library/MobileDevice/Provisioning\ Profiles/1F271939-A99A-4586-A8A9-3B99D7B21BD6.mobileprovision DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovision    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/Jeff/Library/MobileDevice/Provisioning\ Profiles/1F271939-A99A-4586-A8A9-3B99D7B21BD6.mobileprovision -o /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app/embedded.mobileprovision36"6E39D45B-7DBD-430F-BD30-049CFB2C897E-
+b74F14D1E-2F86-4C92-9975-761064B034C8
+
+CTouch /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app
+s426457786.375689
+e426457786.380615
+r1
+xTouch
+x/Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Touch /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app79"Touch DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app113a60ba3a6bb941^937061ba3a6bb941^---0#0#1#--459"Touch DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app    cd /Users/Jeff/Computering/Xcode/SoundAnalysis    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Jeff/Computering/Xcode/SoundAnalysis/DerivedData/SoundAnalysis/Build/Products/Debug-iphoneos/SoundAnalysis.app36"28698177-0C5B-4B57-B4D6-1B876E08D3A2-
+b47C10117-D758-4BF2-BEFF-380819920E87
+
