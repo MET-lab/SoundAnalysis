@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Jeff Gregorio. All rights reserved.
 //
 
-/* To do: external gesture recognizers. Keep a current X buffer so we don't have to keep malloc-ing and freeing on every plot update (especially longer time scales where performance is key). Only update it when the plot bounds change
+/* To do: Keep a current X buffer so we don't have to keep malloc-ing and freeing on every plot update (especially longer time scales where performance is key). Only update it when the plot bounds change
  */
 
 #import <UIKit/UIKit.h>

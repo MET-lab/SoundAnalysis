@@ -4,17 +4,49 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon29x29@2x~ipad.png</key>
+		<data>
+		ezeHsSmNyei7CkUkrbkGxLGpq4E=
+		</data>
+		<key>AppIcon29x29~ipad.png</key>
+		<data>
+		/y7jRgw30/KPEEUIeITTBbE7wkk=
+		</data>
+		<key>AppIcon40x40@2x~ipad.png</key>
+		<data>
+		DD3mp2to8Iv/JUBSl1Hbm/yS/J8=
+		</data>
+		<key>AppIcon40x40~ipad.png</key>
+		<data>
+		+D2NynAeXg5cMV0rRuSacU1yVZU=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		qOrk+TbvZ+KosR0+sdcYb4jV7G4=
+		</data>
+		<key>AppIcon76x76~ipad.png</key>
+		<data>
+		phA0wHBkNclfoX32+OeoLV3KTfs=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		+MWeyOZP28AnJ6ifrntQkACndM8=
+		aXQfffbyAEm4iQ2pIowOPisFeHI=
+		</data>
+		<key>BD1.jpg</key>
+		<data>
+		Yi5xQeqzrWeRJSVi9FzS0RR0xs0=
+		</data>
+		<key>BD1.png</key>
+		<data>
+		dxcys7UKB1jFK7Jyunj337TiJNk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		NlUEHAxFO+1ovyRRhltwPhXlqHM=
+		xjOkbUtbzYKTFjrMkwkAtv92KZ0=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		Ov1ZJJb/J4J7eNuOmxepS4lEZqs=
+		3nApBh96koua26qn6o4mFfG52VY=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -27,21 +59,77 @@
 		<key>en.lproj/InfoPlist.strings</key>
 		<data>
 		zmV6UqBSo6r1NOz798vd5O4zTBA=
+		</data>
+		<key>icon_152.png</key>
+		<data>
+		qOrk+TbvZ+KosR0+sdcYb4jV7G4=
+		</data>
+		<key>icon_29.png</key>
+		<data>
+		/y7jRgw30/KPEEUIeITTBbE7wkk=
+		</data>
+		<key>icon_40.png</key>
+		<data>
+		+D2NynAeXg5cMV0rRuSacU1yVZU=
+		</data>
+		<key>icon_58.png</key>
+		<data>
+		ezeHsSmNyei7CkUkrbkGxLGpq4E=
+		</data>
+		<key>icon_76.png</key>
+		<data>
+		phA0wHBkNclfoX32+OeoLV3KTfs=
+		</data>
+		<key>icon_80.png</key>
+		<data>
+		DD3mp2to8Iv/JUBSl1Hbm/yS/J8=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon29x29@2x~ipad.png</key>
+		<data>
+		ezeHsSmNyei7CkUkrbkGxLGpq4E=
+		</data>
+		<key>AppIcon29x29~ipad.png</key>
+		<data>
+		/y7jRgw30/KPEEUIeITTBbE7wkk=
+		</data>
+		<key>AppIcon40x40@2x~ipad.png</key>
+		<data>
+		DD3mp2to8Iv/JUBSl1Hbm/yS/J8=
+		</data>
+		<key>AppIcon40x40~ipad.png</key>
+		<data>
+		+D2NynAeXg5cMV0rRuSacU1yVZU=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		qOrk+TbvZ+KosR0+sdcYb4jV7G4=
+		</data>
+		<key>AppIcon76x76~ipad.png</key>
+		<data>
+		phA0wHBkNclfoX32+OeoLV3KTfs=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		+MWeyOZP28AnJ6ifrntQkACndM8=
+		aXQfffbyAEm4iQ2pIowOPisFeHI=
+		</data>
+		<key>BD1.jpg</key>
+		<data>
+		Yi5xQeqzrWeRJSVi9FzS0RR0xs0=
+		</data>
+		<key>BD1.png</key>
+		<data>
+		dxcys7UKB1jFK7Jyunj337TiJNk=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		NlUEHAxFO+1ovyRRhltwPhXlqHM=
+		xjOkbUtbzYKTFjrMkwkAtv92KZ0=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		Ov1ZJJb/J4J7eNuOmxepS4lEZqs=
+		3nApBh96koua26qn6o4mFfG52VY=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -54,6 +142,30 @@
 		<key>en.lproj/InfoPlist.strings</key>
 		<data>
 		zmV6UqBSo6r1NOz798vd5O4zTBA=
+		</data>
+		<key>icon_152.png</key>
+		<data>
+		qOrk+TbvZ+KosR0+sdcYb4jV7G4=
+		</data>
+		<key>icon_29.png</key>
+		<data>
+		/y7jRgw30/KPEEUIeITTBbE7wkk=
+		</data>
+		<key>icon_40.png</key>
+		<data>
+		+D2NynAeXg5cMV0rRuSacU1yVZU=
+		</data>
+		<key>icon_58.png</key>
+		<data>
+		ezeHsSmNyei7CkUkrbkGxLGpq4E=
+		</data>
+		<key>icon_76.png</key>
+		<data>
+		phA0wHBkNclfoX32+OeoLV3KTfs=
+		</data>
+		<key>icon_80.png</key>
+		<data>
+		DD3mp2to8Iv/JUBSl1Hbm/yS/J8=
 		</data>
 	</dict>
 	<key>rules</key>
